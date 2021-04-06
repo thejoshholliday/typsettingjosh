@@ -1,0 +1,90 @@
+/*Define your font styles here*/
+
+/*Cyberpunk Matcha Tiramisu Recipe
+
+/*Style your page here*/
+span {
+	color: #ff6c17;
+	line-height: 50px;
+	text-decoration: underline;
+	font-family: arcade_roundedregular;
+}
+img {
+	padding: 5px;
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+ 	width: 50%;
+}
+body {
+	background: #000c40;
+	color: #02c252;
+	font-family: arcade_normalregular;
+	font-size: 12px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+blockquote {
+	margin-top: 80px;
+	line-height: 22px;
+	font-size: 20px;
+	text-align: center;
+	font-family: arcade_interlacedregular;
+	color: #fff53d;
+}
+ul {
+	line-height: 20px;
+}
+ol {
+	line-height: 16px;
+
+}
+h1{
+text-align: center;
+font-family: glitch inside;
+letter-spacing: 5px;
+font-size: 80px;
+margin-top: 20px;
+font-weight: bold;
+color: #00e8f0;
+}
+@font-face{
+	font-family: Tesla;
+	src: url('Tesla.ttf');
+}
+@font-face {
+    font-family: 'arcade_interlacedregular';
+    src: url('arcade_i-webfont.woff2') format('woff2'),
+         url('arcade_i-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'arcade_normalregular';
+    src: url('arcade_n-webfont.woff2') format('woff2'),
+         url('arcade_n-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'arcade_roundedregular';
+    src: url('arcade_r-webfont.woff2') format('woff2'),
+         url('arcade_r-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face{
+	font-family: glitch inside;
+	src: url('Glitch_inside.otf');
+}
+h2 {
+	font-family: Tesla;
+	font-size: 33px;
+	line-height: 50px;
+	text-decoration: underline;
+	letter-spacing: 2px;
+	color: #ff6c17;
+}
